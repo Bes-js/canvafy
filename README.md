@@ -1,8 +1,8 @@
 <h6 align="center">
 <img src="https://cdn.discordapp.com/attachments/950167988127006821/1090038457423900794/2023-03-28_01-11-58-modified.png" width="500px" height="200px" alt="stats" align="center">
 <h6/>
- 
-![npm version](https://badge.fury.io/js/canvafy.svg)
+
+![npm version](https://img.shields.io/npm/v/canvafy?color=%23green&label=npm%20i%20canvafy)
 ![npm info](https://img.shields.io/npm/dw/canvafy?color=39F4B6)
 
 
@@ -20,8 +20,6 @@ Make configurable canvas easily with Canvafy.
 
 To Install the `canvafy` module, open a console and write the code below.
 <br> </br>
-
-[![NPM](https://nodei.co/npm/canvafy.png?mini=true)](https://discord.gg/luppux)
 
 For **npm**
 ```console
@@ -44,5 +42,3 @@ See [Document](https://fivesobes.gitbook.io/canvafy/) for Detailed Usage Informa
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9D06E6&repeat=false&width=435&lines=Contact+%26+Support)](https://git.io/typing-svg)
 
 [![Discord Banner](https://api.weblutions.com/discord/invite/luppux/)](https://discord.gg/luppux)
-
-
