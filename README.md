@@ -1,7 +1,7 @@
 <h6 align="center">
 <img src="https://cdn.discordapp.com/attachments/950167988127006821/1090038457423900794/2023-03-28_01-11-58-modified.png" width="500px" height="200px" alt="stats" align="center">
 <h6/>
-
+ 
 ![npm version](https://badge.fury.io/js/canvafy.svg)
 ![npm info](https://img.shields.io/npm/dw/canvafy?color=39F4B6)
 
