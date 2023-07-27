@@ -1,12 +1,8 @@
 <h6 align="center">
-<img src="https://cdn.discordapp.com/attachments/950167988127006821/1110964751191777411/Canvafyxd33.png" width="600px" height="300px" alt="stats" align="center">
+<img src="https://cdn.discordapp.com/attachments/950167988127006821/1110964751191777411/Canvafyxd33.png" width="600px" alt="stats" align="center">
 <h6/>
-
-<a href="https://www.buymeacoffee.com/beykant" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="120px" height="30px" alt="Buy Me A Coffee"></a>
-
-![npm version](https://img.shields.io/npm/v/canvafy?color=%23green&label=npm%20i%20canvafy)
-![npm info](https://img.shields.io/npm/dw/canvafy?color=39F4B6)
-
+<p align="center"><a href="https://nodei.co/npm/canvafy/"><img src="https://nodei.co/npm/canvafy.png"></a></p>
+<p align="center"><img src="https://img.shields.io/npm/v/canvafy?style=for-the-badge"> <img src="https://img.shields.io/npm/l/hercai?style=for-the-badge"> <img src="https://img.shields.io/npm/dt/canvafy?style=for-the-badge"> <a href="https://discord.gg/luppux" target="_blank"> <img alt="Discord" src="https://img.shields.io/badge/Support-Click%20here-7289d9?style=for-the-badge&logo=discord"> </a> <br></br><a href="https://www.buymeacoffee.com/beykant" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="120px" height="30px" alt="Buy Me A Coffee"></a></p>
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E600AF&repeat=false&width=435&lines=%F0%9F%93%83+Documents)](#)
 
@@ -51,7 +47,7 @@ See [Document](https://fivesobes.gitbook.io/canvafy/) for Detailed Usage Informa
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00EDFF&repeat=false&width=435&lines=%F0%9F%8E%AF+Preview)](#)
 
 <h1>Rank Card</h1>
-<a href="https://fivesobes.gitbook.io/canvafy/rank-level-card" target="_blank"><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FQ8KI56rkXEQp2Ao9aeTJ%2Fuploads%2FHMdwF6iMjeLGatGUsDAF%2Frank-928259219038302258%20(1).png?alt=media&token=2eb74b01-5e43-4a52-a1ba-b7e805810737" alt="Rank"></a>
+<a href="https://fivesobes.gitbook.io/canvafy/rank-level-card" target="_blank"><img src="https://1444644557-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FQ8KI56rkXEQp2Ao9aeTJ%2Fuploads%2FJYrv5eyCn4jX2R7JrvNq%2Frank.png?alt=media&token=2de5c2b7-a3e5-4bfc-b89c-3d64996f7b29" alt="Rank"></a>
 
 <h1>Welcome / Leave Card</h1>
 <a href="https://fivesobes.gitbook.io/canvafy/welcome-leave-card" target="_blank"><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FQ8KI56rkXEQp2Ao9aeTJ%2Fuploads%2FEVUawnHgiUZrsfr9ARal%2Fwelcome-928259219038302258.png?alt=media&token=1a09fb42-84c6-4633-9d63-84b9f37e9a53" alt="WelcomeLeave"></a>
