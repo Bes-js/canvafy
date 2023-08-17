@@ -2,7 +2,7 @@
 <img src="https://cdn.discordapp.com/attachments/950167988127006821/1110964751191777411/Canvafyxd33.png" width="600px" alt="stats" align="center">
 <h6/>
 <p align="center"><a href="https://nodei.co/npm/canvafy/"><img src="https://nodei.co/npm/canvafy.png"></a></p>
-<p align="center"><img src="https://img.shields.io/npm/v/canvafy?style=for-the-badge"> <img src="https://img.shields.io/npm/l/hercai?style=for-the-badge"> <img src="https://img.shields.io/npm/dt/canvafy?style=for-the-badge"> <a href="https://discord.gg/luppux" target="_blank"> <img alt="Discord" src="https://img.shields.io/badge/Support-Click%20here-7289d9?style=for-the-badge&logo=discord"> </a> <br></br><a href="https://www.buymeacoffee.com/beykant" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="120px" height="30px" alt="Buy Me A Coffee"></a></p>
+<p align="center"><img src="https://img.shields.io/npm/v/canvafy?style=for-the-badge"> <img src="https://img.shields.io/npm/l/hercai?style=for-the-badge"> <img src="https://img.shields.io/npm/dt/canvafy?style=for-the-badge"> <a href="https://discord.gg/luppux" target="_blank"> <img alt="Discord" src="https://img.shields.io/badge/Support-Click%20here-7289d9?style=for-the-badge&logo=discord"> </a> <a href="https://www.buymeacoffee.com/beykant" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="120px" height="30px" alt="Buy Me A Coffee"></a></p>
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E600AF&repeat=false&width=435&lines=%F0%9F%93%83+Documents)](#)
 
@@ -13,6 +13,7 @@
 Make configurable canvas easily with Canvafy.
 
 [Click Here To Patch Notes!](https://fivesobes.gitbook.io/canvafy/welcome/patch-notes)
+> [⚙️ If You're Getting Errors While Installing, Or Using Canvafy Click Here!](https://fivesobes.gitbook.io/canvafy/welcome/resolve-errors)
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&repeat=false&width=435&lines=%E2%9D%94+How+To+Install%3F)](#)
 
@@ -36,7 +37,7 @@ For **CommonJS**
 const canvafy = require("canvafy");
 ```
 
-For **EsModule**
+For **EsModule** And **TypeScript**
 ```javascript
 import canvafy from "canvafy";
 ```
@@ -44,10 +45,13 @@ import canvafy from "canvafy";
 See [Document](https://fivesobes.gitbook.io/canvafy/) for Detailed Usage Information!
 
 <br> </br>
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00EDFF&repeat=false&width=435&lines=%F0%9F%8E%AF+Preview)](#)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000&repeat=false&width=435&lines=%F0%9F%8E%AF+Preview)](#)
 
 <h1>Rank Card</h1>
 <a href="https://fivesobes.gitbook.io/canvafy/rank-level-card" target="_blank"><img src="https://1444644557-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FQ8KI56rkXEQp2Ao9aeTJ%2Fuploads%2FJYrv5eyCn4jX2R7JrvNq%2Frank.png?alt=media&token=2de5c2b7-a3e5-4bfc-b89c-3d64996f7b29" alt="Rank"></a>
+
+<h1>Spotify Card</h1>
+<a href="https://fivesobes.gitbook.io/canvafy/spotify-card" target="_blank"><img src="https://1444644557-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FQ8KI56rkXEQp2Ao9aeTJ%2Fuploads%2F7hTGJ0YrKHeCUkHD3Fqk%2Fspotify.png?alt=media&token=af281191-5d86-423b-90df-ee6a2a7bfd09" alt="Spotify"></a>
 
 <h1>Welcome / Leave Card</h1>
 <a href="https://fivesobes.gitbook.io/canvafy/welcome-leave-card" target="_blank"><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FQ8KI56rkXEQp2Ao9aeTJ%2Fuploads%2FEVUawnHgiUZrsfr9ARal%2Fwelcome-928259219038302258.png?alt=media&token=1a09fb42-84c6-4633-9d63-84b9f37e9a53" alt="WelcomeLeave"></a>
@@ -60,9 +64,6 @@ See [Document](https://fivesobes.gitbook.io/canvafy/) for Detailed Usage Informa
 
 <h1>Top Card</h1>
 <a href="https://fivesobes.gitbook.io/canvafy/top-rank-card" target="_blank"><img src="https://1444644557-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FQ8KI56rkXEQp2Ao9aeTJ%2Fuploads%2FZp7Rr7ZBDlgOWlibL9uQ%2Ftop%20(1).png?alt=media&token=d90f4dbd-9d40-48ea-a59b-f2d1f30c5cab" alt="Top"></a>
-
-<h1>Spotify Card</h1>
-<a href="https://fivesobes.gitbook.io/canvafy/spotify-card" target="_blank"><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FQ8KI56rkXEQp2Ao9aeTJ%2Fuploads%2Fz9tJPGV8xX3uOtNkDztM%2F68747470733a2f2f692e696d6775722e636f6d2f5259367558715a2e706e67.png?alt=media&token=347fd6da-5392-42b7-a22a-9789838e8069" alt="Spotify"></a>
 
 <h1>Level Up Card</h1>
 <a href="https://fivesobes.gitbook.io/canvafy/level-up-card" target="_blank"><img src="https://cdn.discordapp.com/attachments/1041745966186909826/1096123913685192804/level-up.png" alt="Levelup"></a>
