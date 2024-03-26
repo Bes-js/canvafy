@@ -1,5 +1,5 @@
 <h6 align="center">
-<img src="https://cdn.discordapp.com/attachments/950167988127006821/1110964751191777411/Canvafyxd33.png" width="600px" alt="stats" align="center">
+<img src="https://fivesobes.gitbook.io/~gitbook/image?url=https:%2F%2F1203280867-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQ8KI56rkXEQp2Ao9aeTJ%252Fuploads%252F6uDWc83AS6QOx2RF747L%252FCanvafyxd33.png%3Falt=media%26token=b26598ec-a1b4-41e7-a441-713808dc515f&width=768&dpr=1&quality=100&sign=ef15f2625d0bbe37ec0ee54f16dbc3cad5cf80f9b802a240a3552b14a08bb7f4" width="600px" alt="stats" align="center">
 <h6/>
 <p align="center"><a href="https://nodei.co/npm/canvafy/"><img src="https://nodei.co/npm/canvafy.png"></a></p>
 <p align="center"><img src="https://img.shields.io/npm/v/canvafy?style=for-the-badge"> <img src="https://img.shields.io/npm/l/hercai?style=for-the-badge"> <img src="https://img.shields.io/npm/dt/canvafy?style=for-the-badge"> <a href="https://discord.gg/luppux" target="_blank"> <img alt="Discord" src="https://img.shields.io/badge/Support-Click%20here-7289d9?style=for-the-badge&logo=discord"> </a> <a href="https://www.buymeacoffee.com/beykant" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="120px" height="30px" alt="Buy Me A Coffee"></a></p>
@@ -47,6 +47,9 @@ See [Document](https://fivesobes.gitbook.io/canvafy/) for Detailed Usage Informa
 <br> </br>
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000&repeat=false&width=435&lines=%F0%9F%8E%AF+Preview)](#)
 
+<h1>Tweet Card</h1>
+<a href="https://fivesobes.gitbook.io/canvafy/tweet-card" target="_blank"><img src="https://fivesobes.gitbook.io/~gitbook/image?url=https:%2F%2F1203280867-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQ8KI56rkXEQp2Ao9aeTJ%252Fuploads%252F9ozf8zuiArzsRdmeDj1v%252Ftweet%2520%282%29.png%3Falt=media%26token=0a9dff2d-9205-430e-b69c-df25175bafa3&width=768&dpr=1&quality=100&sign=2ada703fb0e2c6591fc900aeb56de81ab43bf87e0cf4fa8553f8716a0265f7a4" alt="Rank"></a>
+
 <h1>Rank Card</h1>
 <a href="https://fivesobes.gitbook.io/canvafy/rank-level-card" target="_blank"><img src="https://1444644557-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FQ8KI56rkXEQp2Ao9aeTJ%2Fuploads%2FJYrv5eyCn4jX2R7JrvNq%2Frank.png?alt=media&token=2de5c2b7-a3e5-4bfc-b89c-3d64996f7b29" alt="Rank"></a>
 
@@ -57,7 +60,7 @@ See [Document](https://fivesobes.gitbook.io/canvafy/) for Detailed Usage Informa
 <a href="https://fivesobes.gitbook.io/canvafy/welcome-leave-card" target="_blank"><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FQ8KI56rkXEQp2Ao9aeTJ%2Fuploads%2FEVUawnHgiUZrsfr9ARal%2Fwelcome-928259219038302258.png?alt=media&token=1a09fb42-84c6-4633-9d63-84b9f37e9a53" alt="WelcomeLeave"></a>
 
 <h1>Ship Card</h1>
-<a href="https://fivesobes.gitbook.io/canvafy/ship-card" target="_blank"><img src="https://cdn.discordapp.com/attachments/1075535580517113986/1093500297785131059/ship.png" alt="Ship"></a>
+<a href="https://fivesobes.gitbook.io/canvafy/ship-card" target="_blank"><img src="https://fivesobes.gitbook.io/~gitbook/image?url=https:%2F%2F1203280867-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQ8KI56rkXEQp2Ao9aeTJ%252Fuploads%252Ff5YHP2iRHm3HTYCHbrsm%252Fship.png%3Falt=media%26token=42b3bf1e-62cb-4b58-8446-36483e947a1c&width=768&dpr=1&quality=100&sign=c26608ffc2444405fc620762401da75494c863bd2a346e057849a38ea03be48b" alt="Ship"></a>
 
 <h1>Profile Card</h1>
 <a href="https://fivesobes.gitbook.io/canvafy/profile-card" target="_blank"><img src="https://1444644557-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FQ8KI56rkXEQp2Ao9aeTJ%2Fuploads%2F54B3aXn8bGIQ52fIURO6%2Fprofile.png?alt=media&token=ac54d24f-b847-41a1-935a-b131284348bc" alt="Profile"></a>
@@ -66,7 +69,7 @@ See [Document](https://fivesobes.gitbook.io/canvafy/) for Detailed Usage Informa
 <a href="https://fivesobes.gitbook.io/canvafy/top-rank-card" target="_blank"><img src="https://1444644557-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FQ8KI56rkXEQp2Ao9aeTJ%2Fuploads%2FZp7Rr7ZBDlgOWlibL9uQ%2Ftop%20(1).png?alt=media&token=d90f4dbd-9d40-48ea-a59b-f2d1f30c5cab" alt="Top"></a>
 
 <h1>Level Up Card</h1>
-<a href="https://fivesobes.gitbook.io/canvafy/level-up-card" target="_blank"><img src="https://cdn.discordapp.com/attachments/1041745966186909826/1096123913685192804/level-up.png" alt="Levelup"></a>
+<a href="https://fivesobes.gitbook.io/canvafy/level-up-card" target="_blank"><img src="https://fivesobes.gitbook.io/~gitbook/image?url=https:%2F%2F1203280867-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQ8KI56rkXEQp2Ao9aeTJ%252Fuploads%252FgMqI621IxDIXerPVB1ly%252Flevel-up.png%3Falt=media%26token=d66dd1d5-e700-45d0-b35c-65b6db4076f4&width=768&dpr=1&quality=100&sign=17497c5abed06725c3d6dcd25e47f643533a4cd0d998a7f3fd53604991c2af5f" alt="Levelup"></a>
 
 <h1>Security Card</h1>
 <a href="https://fivesobes.gitbook.io/canvafy/security-card" target="_blank"><img src="https://1444644557-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FQ8KI56rkXEQp2Ao9aeTJ%2Fuploads%2F9SZSxk92RJRUxIijuMme%2Fsecurity.png?alt=media&token=f6e23db0-c361-4ff6-b230-42ebe2abb58f" alt="security1">
