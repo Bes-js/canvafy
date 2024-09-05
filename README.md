@@ -47,8 +47,11 @@ See [Document](https://fivesobes.gitbook.io/canvafy/) for Detailed Usage Informa
 <br> </br>
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000&repeat=false&width=435&lines=%F0%9F%8E%AF+Preview)](#)
 
+<h1>Instagram Card</h1>
+<a href="https://fivesobes.gitbook.io/canvafy/instagram-card" target="_blank"><img src="https://fivesobes.gitbook.io/~gitbook/image?url=https%3A%2F%2F1203280867-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQ8KI56rkXEQp2Ao9aeTJ%252Fuploads%252FCVCAX3sK0k1azdvPrvAR%252Finstagram.png%3Falt%3Dmedia%26token%3D5c4252cb-d112-4a78-89e1-e53ff31130f9&width=768&dpr=1&quality=100&sign=391f274b&sv=1" alt="Instagram" width=400 height=530></a>
+
 <h1>Tweet Card</h1>
-<a href="https://fivesobes.gitbook.io/canvafy/tweet-card" target="_blank"><img src="https://fivesobes.gitbook.io/~gitbook/image?url=https:%2F%2F1203280867-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQ8KI56rkXEQp2Ao9aeTJ%252Fuploads%252F9ozf8zuiArzsRdmeDj1v%252Ftweet%2520%282%29.png%3Falt=media%26token=0a9dff2d-9205-430e-b69c-df25175bafa3&width=768&dpr=1&quality=100&sign=2ada703fb0e2c6591fc900aeb56de81ab43bf87e0cf4fa8553f8716a0265f7a4" alt="Rank"></a>
+<a href="https://fivesobes.gitbook.io/canvafy/tweet-card" target="_blank"><img src="https://fivesobes.gitbook.io/~gitbook/image?url=https:%2F%2F1203280867-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQ8KI56rkXEQp2Ao9aeTJ%252Fuploads%252F9ozf8zuiArzsRdmeDj1v%252Ftweet%2520%282%29.png%3Falt=media%26token=0a9dff2d-9205-430e-b69c-df25175bafa3&width=768&dpr=1&quality=100&sign=2ada703fb0e2c6591fc900aeb56de81ab43bf87e0cf4fa8553f8716a0265f7a4" alt="Tweet"></a>
 
 <h1>Rank Card</h1>
 <a href="https://fivesobes.gitbook.io/canvafy/rank-level-card" target="_blank"><img src="https://1444644557-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FQ8KI56rkXEQp2Ao9aeTJ%2Fuploads%2FJYrv5eyCn4jX2R7JrvNq%2Frank.png?alt=media&token=2de5c2b7-a3e5-4bfc-b89c-3d64996f7b29" alt="Rank"></a>
