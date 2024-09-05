@@ -45,6 +45,7 @@ module.exports = {
   Security: require("./src/security"),
   Captcha: require("./src/captcha"),
   Tweet: require("./src/tweet"),
+  Instagram: require("./src/instagram"),
   author: "Bes-js",
   version: require("./package.json").version
 };
