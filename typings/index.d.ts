@@ -22,6 +22,7 @@ import Security from "./src/security";
 import Ship from "./src/ship";
 import Spotify from "./src/spotify";
 import Tweet from "./src/tweet";
+import Instagram from "./src/instagram";
 
 export {
     Util,
@@ -34,5 +35,6 @@ export {
     Security,
     Ship,
     Spotify,
-    Tweet
+    Tweet,
+    Instagram
 };
