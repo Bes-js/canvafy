@@ -18,12 +18,12 @@ module.exports = class newSpotify {
     this.artist = null;
     this.border = null;
     this._bar_width = 1400;
-    this.end = null;
+    this.end = 0;
     this.overlay_opacity = null;
     this.image = null;
     this.blur = 3;
     this.title = null;
-    this.start = null;
+    this.start = 0;
     this.spotifyLogo = true;
     this.randomColors = ["#0c0c0c","#121212","#282828","#1c1c1c","#244c66"];
   }
@@ -156,8 +156,8 @@ module.exports = class newSpotify {
    * @example setTimestamp(40000,179000)
    */
   setTimestamp(start, end) {
-    if (!start || typeof start !== "number") throw new Error("The first argument of the setTimestamp method must be a number.");
-    if (!end || typeof end !== "number") throw new Error("The first argument of the setTimestamp method must be a number.");
+    if (!start && start !== 0 || typeof start !== "number") throw new Error("The first argument of the setTimestamp method must be a number.");
+    if (!end && end !== 0 || typeof end !== "number") throw new Error("The first argument of the setTimestamp method must be a number.");
     this.start = start;
     this.end = end;
     return this;
