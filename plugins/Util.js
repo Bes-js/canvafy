@@ -13,8 +13,22 @@ module.exports = class Util {
    * @returns {string}
    */
   static format_time(time) {
-    if (!time) return "00:00";
-    const format = dayjs.duration(time).format("DD:HH:mm:ss");
+    if (!time || time < 1) return "00:00";
+
+    const duration = dayjs.duration(time);
+    let seconds = duration.seconds();
+
+    if (seconds < 1 && time > 0) {
+        seconds = 1;
+    }
+
+    const format = dayjs.duration({
+        days: duration.days(),
+        hours: duration.hours(),
+        minutes: duration.minutes(),
+        seconds: seconds,
+    }).format("HH:mm:ss");
+
     const chunks = format.split(":").filter(c => c !== "00");
 
     if (chunks.length < 2) chunks.unshift("00");
